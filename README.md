@@ -48,7 +48,7 @@ programs if need be.
 <img align="left" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
 <br>
 
-###### General NoSQL and SQL experience
+###### General NoSQL and SQL experience. Additonally: Cassandra
 <br>
 
 ### <ins>Business Intelligence </ins>
