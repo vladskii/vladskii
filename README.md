@@ -39,7 +39,7 @@ programs if need be.
 <img align="left" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
 <br>
 
-###### Additionally: tidyverse, dplyr, socviz, maps, ggplot2
+###### Additionally: tidyverse, dplyr, socviz, maps, ggplot2, factoextra, corrplot, cluster, class, gmodels
 <br>
 
 ### <ins>Database design and management </ins>
