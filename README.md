@@ -62,6 +62,7 @@ programs if need be.
 <br>
 
 ###### Additionally: Microsoft PowerPoint/Word/Excel, R markdown
+<br>
 
 ### <ins>General Skills </ins>
 ###### Some knowledge in HTML/CSS 
