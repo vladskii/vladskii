@@ -42,7 +42,7 @@ programs if need be.
 ###### Additionally: tidyverse, dplyr, socviz, maps, ggplot2
 <br>
 
-### <ins>Database design and management: </ins>
+### <ins>Database design and management </ins>
 <img align="left" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" style="padding-right:10px;" />
 <img align="left" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
@@ -55,7 +55,7 @@ programs if need be.
 ###### PowerBI and Adobe Analytics
 <br>
 
-### <ins>Document and presentation tools: </ins>
+### <ins>Document and presentation tools </ins>
 <img align="left" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 <img align="left" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
 <img align="left" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" style="padding-right:10px;" />
@@ -63,4 +63,8 @@ programs if need be.
 
 ###### Additionally: Microsoft PowerPoint/Word/Excel, R markdown
 
-
+### <ins>General Skills </ins>
+###### Some knowledge in HTML/CSS 
+###### Natural presenter and speaker
+###### Team leader
+###### Private Pilot 
