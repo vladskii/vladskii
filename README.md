@@ -10,7 +10,7 @@ general. Finally, after creating a project, program or a model, I can create pre
 allowing them to retain meaningful information, as well as provide easy to understand instructions on how to use 
 programs if need be.
 
-###### Please check out all my projects for applications of my knowledge!
+###### Please check out all my projects for applications of my knowledge! [Here]()
 
 
 ### My links:
