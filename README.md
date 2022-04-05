@@ -52,7 +52,7 @@ programs if need be.
 <br>
 
 ### <ins>Business Intelligence </ins>
-###### PowerBI and Adobe Analytics
+###### PowerBI,Adobe Analytics and Tableau
 <br>
 
 ### <ins>Document and presentation tools </ins>
